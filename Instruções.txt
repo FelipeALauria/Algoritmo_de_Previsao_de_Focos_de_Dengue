@@ -1,0 +1,6 @@
+Cocatenar dados
+Utilizar semanas epidemólogicas(23 e 24)
+Internação
+Agravo da doença
+
+Procurar algoritmos no github
